@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ContextProtocol","context protocol"]],"struct":[["ContextImpl","Actor execution context impl"],["Envelope",""],["RemoteEnvelope",""]],"trait":[["ActorAddress","Trait give access to actor's address"],["AsyncContextApi",""],["ToEnvelope","Converter trait, packs message to suitable envelope"]]});
